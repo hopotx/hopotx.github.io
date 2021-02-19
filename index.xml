@@ -5,12 +5,30 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>HOPO Therapeutics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>HOPO Therapeutics</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>HOPO-Einsteinium complex published in Nature</title>
+      <link>/post/nature/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/post/nature/</guid>
+      <description>&lt;p&gt;Designed to selectively chelate the rare earth f-block elements, 3,4,3-LI(1,2-HOPO) - the active ingredient in HOPO Therapeutics&amp;rsquo; oral drug candidate HOPO-14 - has allowed researchers in Rebecca Abergel&amp;rsquo;s group at Lawrence Berkeley National Laboratory to provide the first measurements of an einsteinium bond length. It also reinforces the unmatched capability of this chelator to bind f-block metal ions such as gadolinium.&lt;/p&gt;
+&lt;p&gt;Originally published in the journal 
+&lt;a href=&#34;https://doi.org/10.1038/s41586-020-03179-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Nature&lt;/em&gt;&lt;/a&gt;, additional reporting is available from 
+&lt;a href=&#34;https://newscenter.lbl.gov/2021/02/03/discoveries-at-the-edge-of-the-periodic-table-first-ever-measurements-of-einsteinium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab&lt;/a&gt;, 
+&lt;a href=&#34;https://www.nbcnews.com/science/science-news/mysterious-radioactive-element-einsteinium-measured-first-time-n1256870&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NBC News&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.nytimes.com/2021/02/07/science/einsteinium-chemistry-elements.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The New York Times&lt;/em&gt;&lt;/a&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;
+&lt;a href=&#34;../../science/&#34;&gt;Learn more about our science&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HOPO&#39;s chelator featured in Cancer Cytopathology</title>
