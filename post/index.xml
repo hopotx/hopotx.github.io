@@ -5,12 +5,31 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>New Research Details Toxicity Mechanisms of the Lanthanides</title>
+      <link>/post/lanthanide_toxicity/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/lanthanide_toxicity/</guid>
+      <description>&lt;p&gt;The elements of lanthanide series, which are rare earth heavy metals, are increasingly utilized in a range of industries, including consumer electronics, emerging energy technologies, and medicine. While elements such as gadolinium and lanthanum are routinely administered to patients in pharmaceutical products, little is known about their toxicological profile. As human exposure to these elements through both intentional and accidental means continues to rise, 
+&lt;a href=&#34;https://doi.org/10.1073/pnas.2025952118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;studies such as this&lt;/a&gt; are essential to understanding, preventing, and treating the negative health outcomes associated with these toxic heavy metals.&lt;/p&gt;
+&lt;p&gt;HOPO Therapeutics develops safe and orally-available chelating agents that bind to and remove heavy metals from the body. Originally 
+&lt;a href=&#34;https://newscenter.lbl.gov/2019/09/12/how-an-anti-nuclear-contamination-pill-could-also-help-mri-patients/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;designed for use in a nuclear disaster scenario&lt;/a&gt;, new applications for 
+&lt;a href=&#34;https://doi.org/10.1038/s41598-018-22511-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exposure to gadolinium&lt;/a&gt;, 
+&lt;a href=&#34;https://doi.org/10.1039/C7NJ04559J&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lead, cadmium&lt;/a&gt;, and a range of other heavy metals are being studied. &lt;em&gt;
+&lt;a href=&#34;../../science/&#34;&gt;Learn more about our science&lt;/a&gt;&lt;/em&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://doi.org/10.1073/pnas.2025952118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Original article from the &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HOPO-Einsteinium complex published in Nature</title>

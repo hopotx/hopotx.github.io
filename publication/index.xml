@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Genome-wide toxicogenomic study of the lanthanides sheds light on the selective toxicity mechanisms associated with critical materials</title>
+      <link>/publication/pallares-lanthanides-2021/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pallares-lanthanides-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Structural and spectroscopic characterization of an einsteinium complex</title>

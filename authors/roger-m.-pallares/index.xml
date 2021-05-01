@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roger M. Pallares | HOPO Therapeutics</title>
+    <link>/authors/roger-m.-pallares/</link>
+      <atom:link href="/authors/roger-m.-pallares/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roger M. Pallares</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Roger M. Pallares</title>
+      <link>/authors/roger-m.-pallares/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide toxicogenomic study of the lanthanides sheds light on the selective toxicity mechanisms associated with critical materials</title>
+      <link>/publication/pallares-lanthanides-2021/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pallares-lanthanides-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
