@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/company/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/bakar/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/tenure/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/news1/</loc>
+    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/lanthanide_toxicity2/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/publications/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
   </url>
@@ -88,21 +128,6 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/publications/</loc>
-    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/corwin-h.-booth/</loc>
     <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url>
@@ -178,8 +203,8 @@
   </url>
   
   <url>
-    <loc>/tags/company/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <loc>/post/priorpress/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -5,7 +5,7 @@
     <link>/tags/publications/</link>
       <atom:link href="/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Publications</title>
@@ -13,7 +13,30 @@
     </image>
     
     <item>
-      <title>New Research Details Toxicity Mechanisms of the Lanthanides</title>
+      <title>Lanthanide toxicity research highlighted by NPR&#39;s Marketplace, Berkeley Lab</title>
+      <link>/post/lanthanide_toxicity2/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/post/lanthanide_toxicity2/</guid>
+      <description>&lt;p&gt;Co-founder Rebecca Abergel, Ph.D. 
+&lt;a href=&#34;https://www.marketplace.org/2021/04/30/the-u-s-is-trying-to-reclaim-its-rare-earth-mantle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spoke to Marketplace&amp;rsquo;s Sabri Ben-Achour&lt;/a&gt; about how rare earth elements such as gadolinium are used, produced, and purified.&lt;/p&gt;
+&lt;p&gt;Lawrence Berkeley National Laboratory, a Department of Energy National Lab and home to the 
+&lt;a href=&#34;http://abergel.lbl.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BioActinide Chemistry group&lt;/a&gt;, also 
+&lt;a href=&#34;https://newscenter.lbl.gov/2021/06/07/heavy-metals-disease-yeast/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;covered this recent discovery&lt;/a&gt; and its applications for new discoveries in lanthanide toxicity and human health.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;HOPO Therapeutics develops safe and orally-available chelating agents that bind to and remove heavy metals from the body. Originally 
+&lt;a href=&#34;https://newscenter.lbl.gov/2019/09/12/how-an-anti-nuclear-contamination-pill-could-also-help-mri-patients/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;designed for use in a nuclear disaster scenario&lt;/a&gt;, new applications for 
+&lt;a href=&#34;https://doi.org/10.1038/s41598-018-22511-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exposure to gadolinium&lt;/a&gt;, 
+&lt;a href=&#34;https://doi.org/10.1039/C7NJ04559J&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lead, cadmium&lt;/a&gt;, and a range of other heavy metals are being studied. &lt;em&gt;
+&lt;a href=&#34;../../science/&#34;&gt;Learn more about our science&lt;/a&gt;&lt;/em&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://doi.org/10.1073/pnas.2025952118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Original article from the &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New research details toxicity mechanisms of the lanthanides</title>
       <link>/post/lanthanide_toxicity/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/post/lanthanide_toxicity/</guid>
