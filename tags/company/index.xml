@@ -5,12 +5,33 @@
     <link>/tags/company/</link>
       <atom:link href="/tags/company/index.xml" rel="self" type="application/rss+xml" />
     <description>Company</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>Company</title>
       <link>/tags/company/</link>
     </image>
+    
+    <item>
+      <title>New strategic direction for the company announced</title>
+      <link>/post/news2/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/post/news2/</guid>
+      <description>&lt;p&gt;In a newsletter sent last week, Julian Rees Ph.D. details a strategic shift in the company&amp;rsquo;s initial focus indication to address childhood lead poisoning, a largely unseen crisis taking place in many disadvantaged communities across the United States and abroad. 
+&lt;a href=&#34;https://mailchi.mp/eb4a68f3ad09/exciting-news-from-hopo-therapeutics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read&lt;/a&gt; the full letter and 
+&lt;a href=&#34;../../#contact&#34;&gt;subscribe&lt;/a&gt; to future updates!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HOPO Therapeutics joins Pad-13 program at Berkeley SkyDeck</title>
+      <link>/post/skydeck/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/post/skydeck/</guid>
+      <description>&lt;p&gt;We are thrilled to join 
+&lt;a href=&#34;https://skydeck.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley SkyDeck&lt;/a&gt;, the University of California, Berkeley&amp;rsquo;s startup accelerator, as part of their Pad-13 program this fall! SkyDeck&amp;rsquo;s intensive mentorship and training program, as well as their vast network of contacts to industry experts, advisors, and investors, will help accelerate our growth and development over the coming months.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HOPO Therapeutics team awarded 2021 Bakar Fellowship from UC Berkeley</title>
