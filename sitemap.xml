@@ -3,22 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <loc>/authors/julian_rees/</loc>
   </url>
   
   <url>
-    <loc>/tags/company/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+    <loc>/authors/rebecca_abergel/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hannah_weber/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hannah/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/news2/</loc>
-    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +51,6 @@
   
   <url>
     <loc>/post/lanthanide_toxicity2/</loc>
-    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/publications/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,11 +205,6 @@
   </url>
   
   <url>
-    <loc>/tags/media-coverage/</loc>
-    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/acs/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
@@ -324,6 +321,11 @@
   
   <url>
     <loc>/tags/radionuclides/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -967,14 +969,6 @@
   
   <url>
     <loc>/authors/board-member/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/julian_rees/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/rebecca_abergel/</loc>
   </url>
   
   <url>
