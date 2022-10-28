@@ -5,12 +5,26 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>All News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>All News</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Berkeley Haas Newsroom Features HOPO VP Hannah Weber</title>
+      <link>/post/2022-haas/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022-haas/</guid>
+      <description>&lt;p&gt;Vice President of Strategy and Business Development 
+&lt;a href=&#34;../../authors/hannah_weber&#34;&gt;Hannah Weber&lt;/a&gt;
+ was interviewed for a 
+&lt;a href=&#34;https://newsroom.haas.berkeley.edu/startup-spotlight-hopo-therapeutics-imagines-a-future-without-heavy-metal-poisoning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Startup Spotlight&lt;/a&gt;
+ by UC Berkeley&amp;rsquo;s Haas School of Business. Hannah is completing a dual degree program at Berkeley, earning her MBA and Master&amp;rsquo;s of Public Health.
+&lt;a href=&#34;https://newsroom.haas.berkeley.edu/startup-spotlight-hopo-therapeutics-imagines-a-future-without-heavy-metal-poisoning/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;hmw.png&#34; width=35%&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HOPO Therapeutics completes California Life Sciences FAST Program</title>
