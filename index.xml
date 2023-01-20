@@ -5,12 +5,24 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>HOPO Therapeutics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>HOPO Therapeutics</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Launch of Phase 1 Clinical Trial for HOPO 14-1</title>
+      <link>/post/2022-clinicaltrial/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022-clinicaltrial/</guid>
+      <description>&lt;p&gt;SRI International commenced a Phase 1 clinical trial for HOPO 14-1 earlier today, with a study start projected in December 2022. The open label study will assess safety, tolerability, pharmacokinetics, and excretion in healthy participants.&lt;/p&gt;
+&lt;p&gt;We are thrilled to see the progression of our lead compound to clinical development, and view this as a major milestone on our mission to develop novel and accessible treatments for life-threatening heavy metal toxicity. For more information about the trial and recruitment, please visit 
+&lt;a href=&#34;https://clinicaltrials.gov/ct2/show/NCT05628961&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://clinicaltrials.gov/ct2/show/NCT05628961&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Berkeley Haas Features HOPO &amp; VP Hannah Weber</title>
