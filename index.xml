@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>HOPO Therapeutics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>HOPO Therapeutics</title>
@@ -604,6 +604,14 @@ otherwise violates any applicable criminal or civil law.&lt;/p&gt;
       <link>/focus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/jobs/</guid>
       <description></description>
     </item>
     
