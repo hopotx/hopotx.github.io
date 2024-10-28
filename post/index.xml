@@ -5,12 +5,26 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>All News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 HOPO Therapeutics, Inc.</copyright><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
       <title>All News</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>HOPO Therapeutics awarded BARDA contract of up to $226 million</title>
+      <link>/post/2024-barda1/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/post/2024-barda1/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://aspr.hhs.gov/AboutASPR/ProgramOffices/BARDA/Pages/default.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biomedical Advanced Research and Development Authority&lt;/a&gt;
+ (BARDA) has awarded HOPO Therapeutics an R&amp;amp;D contract of up to $226 million to advance the company’s oral decorporation agent HOPO-101 through registrational studies. This partnership with BARDA aims to progress HOPO-101 to FDA approval as a medical countermeasure to treat exposure to radioactive actinide elements, as well as other forms of heavy metal toxicity.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.globenewswire.com/news-release/2024/10/28/2970174/0/en/HOPO-Therapeutics-Awarded-Up-to-226-Million-from-BARDA-for-Advanced-Development-of-its-Oral-Decorporation-Agent-for-Heavy-Metal-Toxicity.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the full press release&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HOPO Therapeutics jointly awarded $1.78M ARPA-E Grant</title>
